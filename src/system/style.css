@@ -1,0 +1,23 @@
+a.navbar-brand.navbar-center
+{
+    width: 100%;
+    top: 30%;
+    font-size:30px;
+
+}
+
+h1#title{
+    position: absolute;
+    line-height:1.2em;
+    top: 40%;
+    left: 10%;
+    font-size:68px;
+    width: 615px;
+    height: 163px;
+}
+
+.boca-title{
+    font-family:futura-lt-w01-book, sans-serif;
+    letter-spacing:0.02em;
+
+}
